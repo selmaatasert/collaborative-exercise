@@ -5,3 +5,4 @@
 3. I changed my branch rules (I added a rule which asks before merge pull request)
 4. I clone my project in my local repo
 5. I created a new branch feature/css and added style.css file
+6. I create new branch and then I added index html page
